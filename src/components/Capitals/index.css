@@ -1,0 +1,50 @@
+.background {
+  background-color: #93c5fd;
+  padding: 40px 0px 40px 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.card-background {
+  border-radius: 10px;
+  background-color: #f8fafc;
+  display: flex;
+  flex-direction: column;
+  padding: 50px;
+}
+
+.heading {
+  color: #000000;
+  font-size: 36px;
+  font-weight: 500;
+  font-family: 'Roboto';
+}
+
+.capitals-box {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  font-family: 'Roboto';
+}
+
+.drop-down-list {
+  padding: 10px;
+  color: #1e293b;
+  font-weight: bold;
+  outline: none;
+  width: 160px;
+  border: 1px solid #cbd2d9;
+  border-radius: 5px;
+  margin-right: 10px;
+}
+
+.description {
+  color: #323f4b;
+}
+
+.country-name {
+  color: #1e293b;
+}
